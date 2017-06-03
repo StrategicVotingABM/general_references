@@ -1,2 +1,2 @@
-# general_references
-Holds papers and other reading references
+# General References
+This repository is just to quickly hold readings that we are currently working on
